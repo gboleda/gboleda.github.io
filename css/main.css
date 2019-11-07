@@ -14,20 +14,33 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #339;
 }
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
-    font-size: 3em;
+    font-size: 2.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+h2 {
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+h3 {
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    margin: 0 15px 0;
+}
+
 p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #339;
     font-size: .8em;
 }
 
