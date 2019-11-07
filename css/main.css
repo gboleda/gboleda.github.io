@@ -40,7 +40,7 @@ p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 footer {
-    border-top: 1px solid #339;
+    border-top: 1px solid;
     font-size: .8em;
 }
 
