@@ -1,4 +1,5 @@
 body {
+    /* top-bottom 60px; right-left auto */
     margin: 60px auto;
     width: 70%;
 }
@@ -33,12 +34,19 @@ h2 {
 h3 {
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    margin: 0 15px 0;
+    /* top | right | bottom | left */w
+    margin: 2px 0 0 0;
+}
+
+h4 {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    margin: 2px 0 0 0;
 }
 
 p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 footer {
     border-top: 1px solid;
     font-size: .8em;
