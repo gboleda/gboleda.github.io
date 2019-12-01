@@ -5,13 +5,11 @@ body {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     display: inline;
     margin-right: 20px;
 }
@@ -28,16 +26,13 @@ a:hover {
 
 h1 {
     font-size: 2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 h2 {
     font-size: 1.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 h3 {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     /* top | right | bottom | left */w
     margin: 2px 0 0 0;
 }
