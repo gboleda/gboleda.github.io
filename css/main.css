@@ -1,8 +1,9 @@
 body {
     /* top-bottom 60px; right-left auto */
     margin: 60px auto;
-    width: 70%;
+    width: 90%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    line-height: 1.6;
 }
 nav ul, footer ul {
     padding: 0px;
@@ -37,22 +38,16 @@ h3 {
     margin: 2px 0 0 0;
 }
 
-p {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-
 footer {
     border-top: 1px solid;
     font-size: .8em;
 }
 
 ul.posts { 
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
 ul.posts li {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
 }
