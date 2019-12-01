@@ -10,13 +10,15 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li, footer ul li {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     display: inline;
     margin-right: 20px;
 }
-a {
+a{
     text-decoration: none;
     color: #339;
 }
+
 a:hover {
     text-decoration: underline;
 }
@@ -47,10 +49,12 @@ footer {
 }
 
 ul.posts { 
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
 ul.posts li {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
 }
