@@ -33,10 +33,12 @@ h2 {
     font-size: 1.5em;
 }
 
+
 h3 {
-    /* top | right | bottom | left */w
-    margin: 2px 0 0 0;
+    /* top | right | bottom | left */
+    /* margin: 0 0 2px 0; */
 }
+
 
 footer {
     border-top: 1px solid;
