@@ -1,1 +1,7 @@
-super good guide: http://jmcglone.com/guides/github-pages/
+super good guide to setting up a website+blog in github: 
+
+http://jmcglone.com/guides/github-pages/
+
+and using jekyll locally: 
+
+https://medium.com/20percentwork/creating-your-blog-for-free-using-jekyll-github-pages-dba37272730a
