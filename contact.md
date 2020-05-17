@@ -3,7 +3,7 @@ layout: default
 title: Gemma Boleda - contact
 ---
 
-## contact
+## contact
 
 Department of Translation and Language Sciences
 
