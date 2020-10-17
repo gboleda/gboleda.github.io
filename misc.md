@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gemma Boleda -- press/misc 
+title: Gemma Boleda -- miscellaneous
 ---
 
 ## press
@@ -9,7 +9,7 @@ title: Gemma Boleda -- press/misc
 - Interview with the representation of the European Comission in Catalonia and the Balearic Islands about the importance of the ERC programme and my experience as a scientist who is a woman: in [Catalan](https://ec.europa.eu/spain/barcelona/news/els-programes-de-la-ue-han-representat-un-salt-qualitatiu-en-la-recerca-que-es-pot-fer-europa_ca), [Spanish](https://ec.europa.eu/spain/barcelona/news/els-programes-de-la-ue-han-representat-un-salt-qualitatiu-en-la-recerca-que-es-pot-fer-europa_es). 31/10/2018.
 - _El Periódico_ interview within an article about Horizon 2020, about [my ERC project](https://www.upf.edu/web/amore) and about how enabling it is for female scientists that the European Research Council allows for a deadline extension in case of maternity: in [Catalan](https://www.elperiodico.cat/ca/ciencia/20170325/tres-investigadors-que-treballen-projectes-innovadors-financats-ue-expliquen-les-seves-experiencies-5923169), [Spanish](https://www.elperiodico.com/es/ciencia/20170325/tres-investigadores-que-trabajan-proyectos-innovadores-financiados-ue-explican-sus-experiencias-5923169). 25/03/2017.
 
-## misc
+## other
 
 - Invited [post on how to review](https://naacl2018.wordpress.com/2018/01/04/reviewing-advice-by-gemma-boleda/) for the the NAACL HLT 2018 blog.
 
