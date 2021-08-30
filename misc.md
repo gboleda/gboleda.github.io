@@ -5,7 +5,7 @@ title: Gemma Boleda -- miscellaneous
 
 ## successful grant proposals
 
-(in case they're useful for future applications)
+(in case they're useful for future applicants)
 
 - ERC Starting Grant [AMORE](https://www.upf.edu/web/amore) (2017-2023): [B1](proposals/B1-AMORE-ERC_StG_2016-def.pdf), [B2](proposals/B2-AMORE-ERC_StG_2016-def.pdf).
 
@@ -13,7 +13,7 @@ title: Gemma Boleda -- miscellaneous
 
 - Marie Skłodowska-Curie European fellowship (2014): [part B](proposals/gboleda-1.MSCA-IF-EF-ST-Part-B-final.pdf).
 
-- Beatriu de Pinós fellowship (2012): [proposal](proposals/annex__bp_2010_mod_a_(ii)GBT_v3.pdf)
+- Beatriu de Pinós fellowship (2012): [proposal](proposals/annex__bp_2010_mod_a_(ii)GBT_v3.pdf).
 
 - Juan de la Cierva fellowship (2012): ["memoria"](proposals/memoria-jdc07-gbt-english.pdf), [CV](proposals/cv-jd-c07-gbt.pdf), [scientific track record of the receiving research group](proposals/historial-jdc07-gbt-english.pdf).
 
