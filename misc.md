@@ -9,13 +9,13 @@ title: Gemma Boleda -- miscellaneous
 
 - ERC Starting Grant [AMORE](https://www.upf.edu/web/amore) (2016 call): [B1](proposals/B1-AMORE-ERC_StG_2016-def.pdf), [B2](proposals/B2-AMORE-ERC_StG_2016-def.pdf).
 
-- Ramón y Cajal fellowship (2015): ["memoria"](proposals/2015_memoria_lineas_invest_investigadores_ryc_MINECO-gboleda-sub.pdf).
+- Ramón y Cajal fellowship (2015 call): ["memoria"](proposals/2015_memoria_lineas_invest_investigadores_ryc_MINECO-gboleda-sub.pdf).
 
-- Marie Skłodowska-Curie European fellowship (2014): [part B](proposals/gboleda-1.MSCA-IF-EF-ST-Part-B-final.pdf).
+- Marie Skłodowska-Curie European fellowship (2014 call): [part B](proposals/gboleda-1.MSCA-IF-EF-ST-Part-B-final.pdf).
 
-- Beatriu de Pinós fellowship (2010): [proposal](proposals/annex__bp_2010_mod_a_(ii)GBT_v3.pdf).
+- Beatriu de Pinós fellowship (2010 call): [proposal](proposals/annex__bp_2010_mod_a_(ii)GBT_v3.pdf).
 
-- Juan de la Cierva fellowship (2007): ["memoria"](proposals/memoria-jdc07-gbt-english.pdf), [CV](proposals/cv-jd-c07-gbt.pdf), [scientific track record of the receiving research group](proposals/historial-jdc07-gbt-english.pdf).
+- Juan de la Cierva fellowship (2007 call): ["memoria"](proposals/memoria-jdc07-gbt-english.pdf), [CV](proposals/cv-jd-c07-gbt.pdf), [scientific track record of the receiving research group](proposals/historial-jdc07-gbt-english.pdf).
 
 ## press
 
