@@ -3,6 +3,8 @@ layout: default
 title: Gemma Boleda -- miscellaneous
 ---
 
+# misc
+
 ## successful grant proposals
 
 (in case they're useful for future applicants)
