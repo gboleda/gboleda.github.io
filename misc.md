@@ -19,7 +19,11 @@ title: Gemma Boleda -- miscellaneous
 
 ## press
 
-- _Focus UPF_  [How computational linguistics helps to understand how language works](https://www.upf.edu/web/focus/inici/-/asset_publisher/HmdVwKrOeKpM/content/id/232783382/maximized) (also available in Catalan, Spanish; see language options on the website). 25/02/2020. Based on the following article: [Distributional Semantics and Linguistic Theory](http://www.annualreviews.org/eprint/49J5VEMAMTAXAHVCUVDF/full/10.1146/annurev-linguistics-011619-030303). _Annual Review of Linguistics_, Vol. 6: 213-23. [[Pre-print version](https://arxiv.org/pdf/1905.01896.pdf).]
+- [Linguistics and artificial intelligence: why not?](https://www.upf.edu/web/360upf/numero9/calidoscopi/gemma-boleda). _360upf_, October 2021.
+
+- Consulting for article [Inteligencia artificial para detectar COVID-19 por la voz: hay modelos en prueba pero todavía no funcionan](https://maldita.es/malditatecnologia/20210510/inteligencia-artificial-covid-19-voz/). [_Maldita.es_](https://maldita.es), 10/05/2021.
+
+- [How computational linguistics helps to understand how language works](https://www.upf.edu/web/focus/inici/-/asset_publisher/HmdVwKrOeKpM/content/id/232783382/maximized) (also available in Catalan, Spanish; see language options on the website). _Focus UPF_ , 25/02/2020. Based on the following article: [Distributional Semantics and Linguistic Theory](http://www.annualreviews.org/eprint/49J5VEMAMTAXAHVCUVDF/full/10.1146/annurev-linguistics-011619-030303). _Annual Review of Linguistics_, Vol. 6: 213-23. [[Pre-print version](https://arxiv.org/pdf/1905.01896.pdf).]
 
 - Interview with the representation of the European Comission in Catalonia and the Balearic Islands about the importance of the ERC programme and my experience as a scientist who is a woman: in [Catalan](https://ec.europa.eu/spain/barcelona/news/els-programes-de-la-ue-han-representat-un-salt-qualitatiu-en-la-recerca-que-es-pot-fer-europa_ca), [Spanish](https://ec.europa.eu/spain/barcelona/news/els-programes-de-la-ue-han-representat-un-salt-qualitatiu-en-la-recerca-que-es-pot-fer-europa_es). 31/10/2018.
 
