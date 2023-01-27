@@ -5,7 +5,7 @@ title: Gemma Boleda -- miscellaneous
 
 # miscellaneous
 
-## successful grant proposals
+## sample grant proposals
 
 (in case they're useful for future applicants)
 
