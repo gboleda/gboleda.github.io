@@ -17,7 +17,7 @@ title: Gemma Boleda -- miscellaneous
 
 - Beatriu de Pinós fellowship (2010 call): [proposal](proposals/annex__bp_2010_mod_a_(ii)GBT_v3.pdf).
 
-- Juan de la Cierva fellowship (2007 call): ["memoria"](proposals/memoria-jdc07-gbt-english.pdf), [CV](proposals/cv-jd-c07-gbt.pdf), [scientific track record of the receiving research group](proposals/historial-jdc07-gbt-english.pdf).
+- Juan de la Cierva fellowship (2007 call): ["memoria"](proposals/memoria-jdc07-gbt-english.pdf) (research proposal), [CV](proposals/cv-jd-c07-gbt.pdf), [scientific track record of the receiving research group](proposals/historial-jdc07-gbt-english.pdf).
 
 ## press
 
