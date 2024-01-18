@@ -21,6 +21,8 @@ title: Gemma Boleda -- miscellaneous
 
 ## press
 
+- [Interview](https://podcasters.spotify.com/pod/show/matilda-al-habla/episodes/Lingstica--datos-y-enfermedades-mentales-con-Gemma-Boleda-e27f4jj) in the science podcast _Matilda al habla: ciencia y tecnología_, 27/07/2023.
+
 - [Linguistics and artificial intelligence: why not?](https://www.upf.edu/web/360upf/numero9/calidoscopi/gemma-boleda) _360upf_, October 2021. (In Catalan, Spanish, and English.)
 
 - Consulting for article [Inteligencia artificial para detectar COVID-19 por la voz: hay modelos en prueba pero todavía no funcionan](https://maldita.es/malditatecnologia/20210510/inteligencia-artificial-covid-19-voz/). [_Maldita.es_](https://maldita.es), 10/05/2021.
