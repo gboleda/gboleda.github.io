@@ -19,7 +19,9 @@ title: Gemma Boleda -- miscellaneous
 
 - Juan de la Cierva fellowship (2007 call): ["memoria"](proposals/memoria-jdc07-gbt-english.pdf) (research proposal), [CV](proposals/cv-jd-c07-gbt.pdf), [scientific track record of the receiving research group](proposals/historial-jdc07-gbt-english.pdf).
 
-## press
+## press and dissemination
+
+- Talk (in Catalan): [Les paraules, entre el significat i l'ús](https://www.ub.edu/ubtv/video/les-paraules-entre-el-significat-i-lus-gemma-boleda). Part of the _31è Col·loqui Lingüístic de la Universitat de Barcelona_ (CLUB 31), 27/10/2023.
 
 - [Interview](https://podcasters.spotify.com/pod/show/matilda-al-habla/episodes/Lingstica--datos-y-enfermedades-mentales-con-Gemma-Boleda-e27f4jj) (in Spanish) in the science podcast _Matilda al habla: ciencia y tecnología_, 27/07/2023.
 
