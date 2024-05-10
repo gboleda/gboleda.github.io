@@ -21,7 +21,7 @@ title: Gemma Boleda -- miscellaneous
 
 ## press and dissemination
 
-- Talk (in Catalan): [Les paraules, entre el significat i l'ús](https://www.ub.edu/ubtv/video/les-paraules-entre-el-significat-i-lus-gemma-boleda). Part of the _31è Col·loqui Lingüístic de la Universitat de Barcelona_ (CLUB 31), 27/10/2023.
+- Video recording of talk (in Catalan): [Les paraules, entre el significat i l'ús](https://www.ub.edu/ubtv/video/les-paraules-entre-el-significat-i-lus-gemma-boleda). Part of the _31è Col·loqui Lingüístic de la Universitat de Barcelona_ (CLUB 31), 27/10/2023.
 
 - [Interview](https://podcasters.spotify.com/pod/show/matilda-al-habla/episodes/Lingstica--datos-y-enfermedades-mentales-con-Gemma-Boleda-e27f4jj) (in Spanish) in the science podcast _Matilda al habla: ciencia y tecnología_, 27/07/2023.
 
