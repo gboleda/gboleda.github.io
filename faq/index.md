@@ -9,7 +9,7 @@ This is a blog-like series of writings about life in academia, mostly in the for
 
 ## Life as a researcher
 
-- [Help! I feel like everyone around me is smarter than me, and I don't deserve to be in academia.](impostor-syndrome.html)
+- [Help! I feel like everyone around me is smarter than me, and I don't deserve to be in academia.](./impostor-syndrome.html)
 
 - [I have a psychiatric illness. Can I still be a researcher?](/researcher-psychiatric-illness.html)
 
