@@ -1,3 +1,5 @@
+# On Impostor Syndrome
+
 ***I feel that I'm a failure as a researcher. That I have somehow managed to make it until now, but I will definitely not make it to the next step. Everyone around me is smarter, and I fear the day when they will discover that I'm a fraud. Should I quit?***
 
 Not necessarily. It sounds to me like you may be suffering from something so common, it even has a [Wikipedia page](https://en.wikipedia.org/wiki/Impostor_syndrome). It's called Impostor Syndrome, and it abounds in academic environments. If everyone around you (colleagues, mentors, funding agencies) finds you a good researcher, chances are it's not you but your Impostor Syndrome that is the problem here.
@@ -34,7 +36,7 @@ You can try the following:
 
 ***But therapies are expensive.***
 
-Indeed, therapies cost money --and also time and energy. I'm afraid there's no getting around the time and energy parts, but if you are tight on money there are plenty of resources on the internet that can help. And you can recycle skills that you anyway have as a researcher to guide you in this search (such as the ability to seek and synthesize information, critically appraise methods, and focus on evidence-based results). I include some specific tips in what follows.
+Indeed, therapies cost money ---and also time and energy. I'm afraid there's no getting around the time and energy parts, but if you are tight on money there are plenty of resources on the internet that can help. And you can recycle skills that you anyway have as a researcher to guide you in this search (such as the ability to seek and synthesize information, critically appraise methods, and focus on evidence-based results). I include some specific tips in what follows.
 
 First, **identify your triggers**. Do you feel like a fraud more often...
 

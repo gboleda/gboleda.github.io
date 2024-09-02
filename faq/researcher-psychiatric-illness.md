@@ -1,3 +1,5 @@
+# On being a researcher and a psychiatric patient
+
 ***I have a psychiatric illness. Can I still be a researcher?***
 
 It depends on how serious the disease is. But a psychiatric illness certainly doesn't disqualify you. Case in point, I suffer from schizoaffective disorder and I'm a researcher.
@@ -26,11 +28,11 @@ Most likely, it will slow it down. For instance, it took me six years to finish 
 
 Funny, I don't remember ever having to explain; I don't think anybody asked. In the early steps of my career, both for the PhD and the post-doc, I was funded by fellowships. Those only took into account the outputs (such as GPA and publications). And later in the academic path people don't really look at how long it took you to finish your degrees anymore.
 
-If you find that delays are an issue, you can e.g. apply for positions with people who already know you, and so know that you can do good work. But don't worry about it unless you empirically find that it is an issue --it could well be that it's not.
+If you find that delays are an issue, you can e.g. apply for positions with people who already know you, and so know that you can do good work. But don't worry about it unless you empirically find that it is an issue ---it could well be that it's not.
 
 ***What other negative effects can I expect?***
 
-There is only one other major negative effect that I can think of: The illness is likely to narrow your choices down in terms of where to work and live, at least in some periods of your life. For instance, I had my first severe episode as an undergraduate, and I didn't dare go abroad for my PhD. I still successfully pursued a PhD, but I did it in my hometown, where I had a solid network of family and friends, as well as good medical support. Luckily my hometown is Barcelona --you can do worse. ;) 
+There is only one other major negative effect that I can think of: The illness is likely to narrow your choices down in terms of where to work and live, at least in some periods of your life. For instance, I had my first severe episode as an undergraduate, and I didn't dare go abroad for my PhD. I still successfully pursued a PhD, but I did it in my hometown, where I had a solid network of family and friends, as well as good medical support. Luckily my hometown is Barcelona ---you can do worse. ;) 
 
 ***How about colleagues? Don't you find that people don't want to work with you because you let them down?***
 

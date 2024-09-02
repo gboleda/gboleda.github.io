@@ -1,3 +1,5 @@
+# On parenting and researching
+
 _**WARNING**: In this post, I'm going to focus on the difficult parts of parenting. I won't dwell on the positive aspects, because I'm assuming that if you want to be a parent you already value those. Also, there's a lot of bullshit around parenthood, with society painting a rosy picture and expecting parents to be superhuman. So you get a lot of information about the beautiful aspects of parenting (which are many!), and instead not much about how hard it is, or about how to cope with the difficulties._
 
 _With that out of the way, let's get the conversation started!_
@@ -8,7 +10,7 @@ I always say that being a researcher is the best job in the world, because you g
 
 ***Yet there are people who have children and are researchers. So it must be possible. How?***
 
-Well, in my view, it's the result of a willful suspension of straight thinking. To have children as working parents, one must undergo a period of craziness. It's never a good time to have them --not in ours, not in other professions. So you need to close your eyes and listen to your heart and simply go ahead with it. And once the baby is there, well, you find a way, because you have to.
+Well, in my view, it's the result of a willful suspension of straight thinking. To have children as working parents, one must undergo a period of craziness. It's never a good time to have them ---not in ours, not in other professions. So you need to close your eyes and listen to your heart and simply go ahead with it. And once the baby is there, well, you find a way, because you have to.
 
 ***Erm, sorry, but that doesn't sound too good.***
 
@@ -40,7 +42,7 @@ Indeed. But think of it as an investment. If you can delegate practical matters 
 
 _*Please DON'T do that stupidest thing of all, having kids to save a relationship..._
 
-A friend of mine is a good example of this "investment view". She ran out of funding for her PhD before finishing it, and she got a part-time job so she could keep working on it. Shortly after, however, she had a child, and she soon realized that a PhD, a job, and a baby was more than she could handle. She reviewed her priorities and chose the PhD and the baby --and quit her job. That meant that she had to rely on her partner for economic support while she worked on her PhD, something neither she nor her partner liked. But she actually finished it in less than a year and immediatly found a better-paid job as a post-doc.
+A friend of mine is a good example of this "investment view". She ran out of funding for her PhD before finishing it, and she got a part-time job so she could keep working on it. Shortly after, however, she had a child, and she soon realized that a PhD, a job, and a baby was more than she could handle. She reviewed her priorities and chose the PhD and the baby ---and quit her job. That meant that she had to rely on her partner for economic support while she worked on her PhD, something neither she nor her partner liked. But she actually finished it in less than a year and immediatly found a better-paid job as a post-doc.
 
 Last but not least, I'll finish with a piece of advice specifically for women: If you have a male partner, make sure that he does his share of childcare. Even if you have always shared work equally at home, sometimes partners sort of assume that the baby is mostly your thing (it doesn't help that society assumes the same, of course). Educate your partner so he also takes up his part. There are some parts of childcare, especially in the first few years, that are best done by the mom (including, but not only, breastfeeding). But there is so much to do, that there's plenty of work for both. For instance, my partner was the one bringing the kids to the doctor and buying them clothes; and we took turns taking them to and from daycare and caring for them in the afternoons.
 
