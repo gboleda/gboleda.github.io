@@ -9,13 +9,13 @@ This is a blog-like series of writings about life in academia, mostly in the for
 
 ## Life as a researcher
 
-- [Help! I feel like everyone around me is smarter than me, and I don't deserve to be in academia.](./impostor-syndrome.html)
+- [Help! I feel like everyone around me is smarter than me, and I don't deserve to be in academia.](/faq/impostor-syndrome.html)
 
-- [I have a psychiatric illness. Can I still be a researcher?](./researcher-psychiatric-illness.html)
+- [I have a psychiatric illness. Can I still be a researcher?](/faq/researcher-psychiatric-illness.html)
 
-- [I love my work but I'd also love to have children. Is it possible to be both a parent and a researcher?](./children-as-a-scientist.html)
+- [I love my work but I'd also love to have children. Is it possible to be both a parent and a researcher?](/faq/children-as-a-scientist.html)
 
-- [What makes for a happy life -- for a researcher?](./what-makes-happy-life.html)
+- [What makes for a happy life -- for a researcher?](/faq/what-makes-happy-life.html)
 
 ## Work as a researcher
 

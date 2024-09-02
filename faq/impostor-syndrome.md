@@ -16,7 +16,7 @@ I see. What I recommend:
 
 ***This is starting to sound like I'm a bit daft...***
 
-Brilliant point! So, now I'm telling you that you're stupid for thinking you're stupid. No, you're not stupid. Importantly, there are **systemic reasons** for you to feel like a fraud: Academia makes it very easy for Impostor Syndrom to creep in. Part of the reason is that working in research by definition means being constantly in touch with what you don't know; and it's difficult to be comfortable with not knowing. Another part, in my opinion, is that many people in academia were the smartest in their class, and we based much of our self-worth on that. And suddenly we're thrown in with the smartest-in-all-the-classes-in-the-world. While this is actually very nice,* it can trigger all kinds of insecurities.
+Brilliant point! So, now I'm telling you that you're stupid for thinking you're stupid. No, you're not stupid. Importantly, there are **systemic reasons** for you to feel like a fraud: Academia makes it very easy for Impostor Syndrome to creep in. Part of the reason is that working in research by definition means being constantly in touch with what you don't know; and it's difficult to be comfortable with not knowing. Another part, in my opinion, is that many people in academia were the smartest in their class, and we based much of our self-worth on that. And suddenly we're thrown in with the smartest-in-all-the-classes-in-the-world. While this is actually very nice,* it can trigger all kinds of insecurities.
 
 *_I once read an interview with a Physicist who said she decided to stay in academia because she likes scientists; I am totally with her on that!_
 
