@@ -20,7 +20,7 @@ Brilliant point! So, now I'm telling you that you're stupid for thinking you're 
 
 *_I once read an interview with a Physicist who said she decided to stay in academia because she likes scientists; I am totally with her on that!_
 
-However, there's another big part of the problem that is much uglier. Academia has evolved to be mega-competitive and we are increasingly asked to reach increasingly unrealistic goals. This can make for a very unsettling environment (and, by the way, it incentivizes fraud, much like mega-competitiveness in sport incentivizes doping). We may feel like impostors because we can't meet expectations that are impossible to meet in the first place. Luckily, there are many people who are [realizing this problem](https://en.wikipedia.org/wiki/Slow_science) and [seeking solutions](https://sfdora.org). And being aware of Impostor Syndrome and helping each other tackle it is a step towards that.
+However, there's another big part of the problem that is much uglier. Academia has evolved to be mega-competitive, and we are increasingly asked to reach increasingly unrealistic goals. This can make for a very unsettling environment (and, by the way, it incentivizes fraud, much like mega-competitiveness in sport incentivizes doping). We may feel like impostors because we can't meet expectations that are impossible to meet in the first place. Luckily, there are many people who are [realizing this problem](https://en.wikipedia.org/wiki/Slow_science) and [seeking solutions](https://sfdora.org). And being aware of Impostor Syndrome and helping each other tackle it is a step towards that.
 
 ***Sure, but this still sounds... not great. Is there any silver lining?***
 
@@ -30,7 +30,7 @@ Yes! The silver lining is that it gets better over time, as you progress in your
 
 You can try the following:
 
-- **Use a thermometer**. Very important: monitor your Impostor Syndrome over time: Is it "merely" unpleasant, or is it preventing you from doing your research or otherwise having a significant impact on your life? In many cases, but especially in severe ones, what I'd recommend is to...
+- **Use a thermometer**. Very important: monitor your Impostor Syndrome over time. Is it "merely" unpleasant, or is it preventing you from doing your research or otherwise having a significant impact on your life? In many cases, but especially in severe ones, what I'd recommend is to...
 
 - **Consider therapy**. There are therapeutic interventions that can really help, and can have positive effects not only with respect to Impostor Syndrome but also with respect to other possible issues related to it, like low self-esteem. There are many kinds of therapies and techniques, and it may take a while to find what works for you, so be patient and don't give up at the first try.
 
