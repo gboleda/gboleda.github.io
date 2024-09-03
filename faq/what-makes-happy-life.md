@@ -2,7 +2,7 @@
 
 ## Happiness 101
 
-Let me start with what makes for a happy life in general. Research on happiness (see [Sources](#sources))  largely agrees with a [famous Spanish song](https://www.youtube.com/watch?v=vB3jQ-j4yus):
+Let me start with what makes for a happy life in general. Research on happiness (see [sources](#sources)) largely agrees with a [famous Spanish song](https://www.youtube.com/watch?v=vB3jQ-j4yus):
 
 _Tres cosas hay en la vida,<br>
 salud, dinero y amor.<br>
@@ -28,11 +28,11 @@ What's more, another important factor, generosity (aka pro-social behavior, or d
 
 I suspect that what makes for a happy life for a researcher is pretty much the same as what does it for the rest of humanity. But being a researcher comes with specific challenges with respect to all three of the main ingredients for happiness.
 
-As for money, while a tenured researcher can typically make a decent living (although by no means in all countries!), the path to a permanent position is fraught with job instability and economic uncertainty. This conflicts with having one's basic needs covered. As for health, our largest occupational hazard is stress, stemming from both the aforementioned instability and the work overload typical of academia. These are crucial issues, and a great burden for so many of us; but they are also comparatively well known, and often discussed in academic forums.
+As for money, while a tenured researcher can typically make a decent living (although by no means in all countries!), the path to a permanent position is fraught with job instability and economic uncertainty. This conflicts with having one's basic needs covered. As for health, our greatest occupational hazard is stress, stemming from both the aforementioned instability and the work overload typical of academia. These are crucial issues, and a great burden for so many of us; but they are also comparatively well known, and often discussed in academic forums.
 
-In this post, I want to highlight that we also face specific challenges related to that precious third ingredient, solid social ties. Our job has two key features that make it hard for us to obtain it. First, it's very easy to get absorbed by our work. This has a good side to it (what we do for a living is stimulating and fulfilling), but it often leaves little room for a personal life, including the people that we care about --or could get to know and care about if we were not too busy for that.
+In this post, I want to instead highlight challenges around that third precious ingredient, solid social ties. Our job has two key features that make it hard for us to obtain it. First, it's very easy to get absorbed by our work. This has a good side to it (what we do for a living is stimulating and fulfilling), but it often leaves little room for a personal life, including the people that we care about --or could get to know and care about if we were not too busy for that.
 
-There's a palliative care nurse who compiled [the most common regrets](https://www.theguardian.com/lifeandstyle/2012/feb/01/top-five-regrets-of-the-dying) her patients expressed at the end of their lives. Very high in her list was working too much, and I could see that happening to many of us. Note that working _a lot_ is not the regret; it's working too much. "Too much" means that there's no space for other things in life, and in particular for other people. 
+There's a palliative care nurse who compiled [the most common regrets](https://www.theguardian.com/lifeandstyle/2012/feb/01/top-five-regrets-of-the-dying) her patients expressed at the end of their lives. Very high in her list was working too much, and I could see that happening to many of us. Note that working a lot is not the regret; it's working too much. "Too much" means that there's no space for other things in life, and in particular for other people. 
 
 Moreover, we typically roam the Earth before settling somewhere, and we work in international teams. I for instance have lived in four different countries, and worked with people from countless more. This means that many of us have friends all over the world, but we can't really go for a beer with them when we need to chat. At the same time, precisely because we have roamed so much, the ties from our childhood and early youth often become rather loose.
 
