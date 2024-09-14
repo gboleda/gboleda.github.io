@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html>
+  <head>
+    <title>Funcions sintàctiques per a adjectius</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  </head>
+  <body>
+    <h1>FUNCIONS SINTÀCTIQUES PER A ADJECTIUS</h1>
+    <table border="1" bordercolor="#3366CC" cellspacing="0" cellpadding="2">
+      <thead valign="top">
+	<tr><th>Funció
+	  </th><th>Definició
+	  </th><th>Exemples
+      </th></tr></thead><tbody>
+	<tr>
+	  <td><b>@&lt;CN</b><br>(Complement d'un nom a l'esquerra)<br><a href="#nota_CNesq"><i>Nota 1</i></a></td>
+	  <td>Els adjectius que fan de modificadors d'un nucli de sintagma nominal, i el nucli és a la seva esquerra.</td>
+	  <td>La casa <b>nova</b>.<br>
+	    És amic <b>meu</b>.<br>
+	    Un home <b>pobre</b>.<br>
+	    Aquella (camisa) <b>verda</b>, la <b>verda</b>
+	  </td>
+	</tr>
+	<tr>
+	  <td><b>@CN&gt;</b><br>(Complement d'un nom a la dreta)<br><a href="#nota_CNdret"><i>Nota 2</i></a></td>
+	  <td>Els adjectius que fan de modificadors d'un nucli de sintagma nominal, i el nucli és a la seva dreta.</td>
+	  <td>La <b>nova</b> casa.<br>
+	    És el <b>meu</b> amic.<br>
+	    Un <b>pobre</b> home.<br>
+	    Va venir, la <b>qual</b> cosa el va molestar enormement.
+	  </td>
+	</tr>
+
+	<tr>
+	  <td><b>@Atr</b><br>(Atribut)<br></td>
+	  <td>Els adjectius en funció d'atribut, precedits d'un verb copulatiu (<i>ser</i>, <i>estar</i> o <i>semblar</i>)</td>
+	  <td>L’any vinent ja serà <b>gran</b>.<br>
+	    És <b>blanc</b>.<br>
+	    L'abric està <b>xop</b>.
+	  </td>
+	</tr>
+
+	<tr>
+	  <td><b>@Pred</b><br>(Complement predicatiu)<br></td>
+	  <td>Adjectius en funció atributiva que depenen d'un verb no copulatiu, tant si prediquen del subjecte com de l'objecte i tant si són regits com si no.</td>
+	  <td>En aquesta casa elles dues hi viuen <b>tranquil·les</b>.<br>
+	    Últimament l'he vista molt <b>intranquil·la</b><br>
+	    Si es vol mostrar <b>misericordiós</b>...<br>
+	    ... i sortia, <b>disgustat</b> i <b>infeliç</b>, a andarejar una mica ...<br>
+	    La carn, li agrada molt <b>crua</b>.<br>
+	    La carn, se la menja sempre <b>crua</b>.
+	  </td>
+	</tr>
+
+	<tr>
+	  <td><b>@Advl</b><br>(Adverbial/adjunt verbal)<br></td>
+	  <td>Els adjectius en les estructures adverbials de mode que segueixen el patró  <i>–ment i –ment</i>, però en les quals el segon element de la conjunció no és un adverbi sinó un adjectiu.
+	  </td>
+	  <td>S'expressa dolçament i <b>humil</b>.
+	  </td>
+	</tr>
+
+    </tbody></table>
+
+    <h2>Notes</h2>
+
+    <a name="nota_CNesq"><b>1: Funció @&lt;CN:</b></a>
+    <ul>
+      <li>Segons la nostra teoria, els nuclis de sintagma nominal són tant noms com determinants, però no adjectius. Per això, en casos en què no hi ha un nom al sintagma nominal, els adjectius també són @&lt;CN. D'aquesta manera, en els dos sintagmes següents l'adjectiu rep la mateixa funció (@&lt;CN):
+	<ul>
+	  <li>La camisa <b>verda</b>
+	  </li><li>La <b>verda</b>
+	</li></ul>
+	<!-- 	<LI>Segons la nostra teoria el relatiu <I>qual</I> és un adjectiu, per la qual cosa rebrà la funció @&lt;CN en exemples com <I>vaig veure la Maria, la <B>qual</B> havia acomiadat l'any passat</I>.
+	  -->
+    </li></ul>
+    <a name="nota_CNdret"><b>2: Funció @CN&gt;:</b></a>
+    <ul>
+      <li>Cal recordar que segons la nostra teoria el relatiu <i>qual</i> és un adjectiu, per la qual cosa rebrà la funció @CN&gt; en exemples com <i>la <b>qual</b> cosa, la <b>qual</b> camisa</i>, etc.
+    </li></ul>
+
+    <h2>Aspectes pendents de tractar</h2>
+
+    <ul>
+      <li>Hi ha casos en què al sintagma nominal no hi ha ni nom ni determinant, i en què cal acceptar que o bé l'adjectiu és nucli o bé l'adjectiu s'ha nominalitzat. Es tracta de casos com els següents:
+	<ol>
+	  <li><b>Intrèpids</b> i covards es van posar d'acord per enderrocar el rei.
+	  </li><li>Parlava al mateix temps a interessats, a escèptics i a <b>distrets</b>
+	</li></ol>	
+	Les dues anàlisis indicades impliquen o bé duplicar les entrades lèxiques de tots els adjectius (i especificar que també poden ser nom) o bé implementar algun mecanisme dinàmic de nominalització. 
+	<br>
+	A la CATCG s'ha optat per la segona opció, per tal de no modificar la teoria sobre el sintagma nominal, si bé per raons d'arquitectura no s'indicarà un canvi de categoria morfològica, sinó una funció pròpia d'un nucli. Per exemple, <i>intrèpids</i> a (1) rebria @Subj i <i>distrets</i> a (2) rebria @&lt;P. Això indica implícitament que l'adjectiu està nominalitzat, pel fet que rebrà una funció pròpia de nucli nominal.
+	<br>
+	Tot i que s'ha arribat a una solució, encara <b>no està implementada</b>. Caldrà fer regles de projecció i desambiguació específiques per a aquests casos.
+    </li></ul>
+
+    <hr>
+    Última modificació: 19/01/2004
+
+
+  </body><!--
+	     FILE ARCHIVED ON 09:30:26 Oct 23, 2005 AND RETRIEVED FROM THE
+	     INTERNET ARCHIVE ON 11:10:51 May 01, 2024.
+	     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+	     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+	     SECTION 108(a)(3)).
+	   --><!--
+		  playback timings (ms):
+		  captures_list: 1.406
+		  exclusion.robots: 0.199
+		  exclusion.robots.policy: 0.19
+		  cdx.remote: 0.056
+		  esindex: 0.01
+		  LoadShardBlock: 147.692 (3)
+		  PetaboxLoader3.datanode: 130.9 (4)
+		  PetaboxLoader3.resolve: 111.678 (2)
+		  load_resource: 131.879
+		-->
+</html>

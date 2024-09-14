@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>    
+    <title>Funcions sintàctiques per a pronoms</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  </head>
+  <body>
+    <h1>FUNCIONS SINTÀCTIQUES PER ALS PRONOMS</h1>
+    <table border="1" bordercolor="#3366CC" cellspacing="0" cellpadding="2">
+      <thead valign="top">
+	<tr><th>Funció
+	  </th><th>Definició
+	  </th><th>Exemples
+      </th></tr></thead><tbody>
+	<tr>
+	  <td><b>@Subj</b><br>(subjecte)<br>
+	  </td>
+	  <td>Quan són el subjecte de l'oració, principal o subordinada (pronoms forts).</td>
+	  <td><b>Vosaltres</b> ho decidiu tot sense nosaltres.
+	  </td>
+	</tr>
+	<tr>
+	  <td><b>@Atr</b><br>(atribut)<br>
+	    <a href="#nota_atr"><i>Nota 1</i></a></td>
+	  <td>Quan són el nucli del predicat nominal (i no estan introduïts per cap preposició; pronoms forts).</td>
+	  <td>
+	    Jo seré <b>tu</b>.<br>
+	    No <b>l'</b>és.<br>
+	    No <b>ho</b> sóc.
+	  </td>
+	</tr>
+	<tr>
+	  <td><b>@CD</b><br>(complement directe)<br>
+	  </td>
+	  <td>Quan són el nucli d'un complement directe, <b>que estarà introduït per la preposició a</b> (pronoms forts).</td>
+	  <td>La mestra la mirava a <b>ella</b>.
+	  </td>
+	</tr>
+	<tr>
+	  <td><b>@&lt;P</b><br>(complement de preposició, nucli a l'esquerra)<br>
+	  </td>
+	  <td>Pronoms que són terme de preposició, quan no fan la funció de @CD (pronoms forts).</td>
+	  <td>L'amic d'<b>ella</b>.<br>
+	    Això és per a <b>ell</b>.<br>
+	    Parlen de <b>tu</b>.<br>
+	    A <b>mi</b> no m'agrada el cafè.
+	  </td>
+	</tr>
+	<tr>
+	  <td><b>@Advl</b><br>(complement adverbial)<br>
+	  </td>
+	  <td>Pronoms de tercera persona <i>hi, en</i>, quan fan funcions d'adjunt al SV o complement de règim.</td>
+	  <td>T'hi veuré.<br>
+	    No me'n recordo.
+	  </td>
+	</tr>
+	<tr>
+	  <td><b>@CD-clt</b><br>(clític complement directe)<br>
+	  </td>
+	  <td>Pronoms febles que complementen verbs transitius, tant si hi ha un CD amb SN com si no.</td>
+	  <td><b>Ens</b> van sentir.<br>
+	    Dóna<b>'l</b> a la Maria, el llibre.<br>
+	    No <b>en</b> vull, de patates.
+	  </td>
+	</tr>
+	<tr>
+	  <td><b>@CI-clt</b><br>(clític complement indirecte)<br>
+	  </td>
+	  <td>Pronoms febles <i>li, hi</i> en funció de complement indirecte.</td>
+	  <td>Dóna-l'<i>hi</i>.<br>
+	    A en Lluc no <i>li</i> agrada el cafè.<br>
+	    <b>M'</b>obren la porta
+	  </td>
+	</tr>
+	<tr>
+	  <td><b>@CN&gt;</b><br>(complement de nom)<br>
+	    <a href="#nota_cn"><i>Nota 2</i></a></td>
+	  <td>Pronom feble <i>en</i>, quan substitueix un nom complement de nom.</td>
+	  <td>He estat a Girona però no <b>en</b> conec la catedral.
+	  </td>
+	</tr>
+	<tr>
+	  <td><b>@Pr-reflex</b><br>(pronom reflexiu)<br>
+	  </td>
+	  <td>Pronoms febles <i>se, me, te, ens, us</i>, quan coincideixen en persona i nombre amb el verb (no s'intenta desambiguar entre CD-clt i CI-clt en aquests casos, ni detectar casos de "passiva amb <i>se</i>"; per tant, és com una etiqueta subespecificada entre aquests tres casos).</td>
+	  <td>Aquí <b>es</b> venen molts cotxes.<br>
+	    <b>Es</b> lamentava de massa coses.<br>
+	    Tu sempre <b>et</b> queixes.
+	  </td>
+	</tr>
+	<tr>
+	  <td><b>@Subj-clt</b><br>(clític subjecte)<br>
+	    <a href="#nota_subjclt"><i>Nota 3</i></a></td>
+	  <td>Pronom feble <i>en</i>, quan apareix amb verbs dels anomenats esdevenimental com <i>arribar, sortir, faltar, caler, quedar, dormir, acudir-se</i> i <i>haver-hi</i>.</td>
+	  <td>Ja no <b>en</b> queda cap.<br>
+	    Si els <b>en</b> cal, els en durem.<br>
+	    <b>En</b> dormen dos a cada habitació.<br>
+	    Se me <b>n'</b>acut una de bona.
+	  </td>
+	</tr>
+
+    </tbody></table>
+    <h2>Notes</h2>
+    <a name="nota_atr"><b>1: Funció @Atr</b></a>
+    La proposta d'anàlisi que segueix la CATCG per a l'anàlisi de les oracions copulatives (és a dir, assignació de funcions @Subj i @Atr) és la que  s'especifica en els principis següents:
+
+    <ol>
+      <li>Concordança: les formes verbals finites porten informació de persona i nombre del subjecte. De manera que el nucli nominal que concordi amb el verb serà el subjecte.
+      </li><li>En cas que el verb concordi amb els dos nuclis nominals, serà subjecte el SN de menor extensió i major comprensió. D'aquest principi se n'extreu la següent jerarquia per a l'assignació de la funció de subjecte:<br>
+	Noms propis i díctics  &gt; SNs amb determinant definit &gt; SNs amb determinant indefinit &gt; SNs sense determinant.
+    </li></ol>
+
+    <a name="nota_cn"><b>2: Funció @CN&gt;</b></a>
+    <ul>
+      <li>Aquesta funció és difícil de diferenciar de la de CD-clt, no? S'hauria de revisar?
+    </li></ul>
+    <a name="nota_subjclt"><b>3: Funció @Subj-clt</b></a>
+    <ul>
+      <li>No seria millor tractar aquests casos com a @CN&gt;? O millor encara, tractar els casos de <i>ne</i> tractats fins ara com a @CD-clt, @CN&gt; i @Subj-clt com una sola cosa (de fet, són manifestacions del mateix fenomen). Així, l'anàlisi quedaria com segueix:
+	<ul>
+	  <li>No <b>en</b> (@CN&gt;) vull <b>més</b> (@CD), de <b>patates</b> (@&lt;P).
+	  </li><li>He estat a Girona però no <b>en</b> (@CN&gt;) conec la <b>catedral</b> (@CD).
+	  </li><li>Ja no <b>en</b> (@CN&gt;) queda <b>cap</b> (@Subj).
+	</li></ul>
+	El problema d'aquest tractament és que en casos com <i>No en vull, de patates</i> no hi hauria cap mot que rebés @CD... (seria un CD sense nucli). Això pot portar problemes de desambiguació.
+    </li></ul>
+    <h2>Aspectes pendents de tractar</h2>
+    <ul>
+      <li> Vegeu notes <a href="#nota_cn">1</a> i <a href="#nota_subjclt">3</a>.
+    </li></ul>
+    <hr>
+    Última modificació: 19/01/2004
+
+  </body><!--
+	     FILE ARCHIVED ON 09:36:57 Nov 23, 2007 AND RETRIEVED FROM THE
+	     INTERNET ARCHIVE ON 11:19:40 May 01, 2024.
+	     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+	     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+	     SECTION 108(a)(3)).
+	   --><!--
+		  playback timings (ms):
+		  captures_list: 1.299
+		  exclusion.robots: 0.404
+		  exclusion.robots.policy: 0.386
+		  cdx.remote: 0.145
+		  esindex: 0.015
+		  LoadShardBlock: 232.749 (3)
+		  PetaboxLoader3.datanode: 169.868 (4)
+		  load_resource: 1147.204
+		  PetaboxLoader3.resolve: 1064.121
+		-->
+</html>
