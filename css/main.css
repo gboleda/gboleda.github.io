@@ -16,7 +16,7 @@ nav ul li, footer ul li {
 }
 
 
-a{
+a {
     text-decoration: none;
     color: #339;
 }
@@ -37,6 +37,13 @@ h2 {
 h3 {
     /* top | right | bottom | left */
     /* margin: 0 0 2px 0; */
+}
+
+
+}
+
+li {
+    margin-bottom: 10px; /* Increase the spacing */
 }
 
 
