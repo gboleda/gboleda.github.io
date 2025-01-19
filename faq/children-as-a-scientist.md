@@ -40,14 +40,25 @@ Indeed. But think of it as an investment. If you can delegate practical matters 
 
 _* Please DON'T do that stupidest thing of all, having kids to save a relationship..._
 
-A friend of mine is a good example of this investment view. She ran out of funding for her PhD before finishing it, and she got a part-time job so she could keep working on it. Shortly after, however, she had a child, and she soon realized that a PhD, a job, and a baby was more than she could handle. She reviewed her priorities and chose the PhD and the baby ---and quit her job. That meant that she had to rely on her partner for economic support while she worked on her PhD, something neither she nor her partner liked. But she actually finished it in less than a year and immediatly found a much better-paid job as a post-doc.
-
-Last but not least, I'll finish with a piece of advice specifically for women: If you have a male partner, make sure that he does his share of childcare. Even if you have always shared work equally at home, sometimes partners sort of assume that the baby is mostly your thing (it doesn't help that society assumes the same, of course). Educate your partner so he also takes up his part. There are some parts of childcare, especially in the first few years, that are best done by the mom (including, but not only, breastfeeding). But there is so much to do, that there's plenty of work for both. For instance, my partner was the one bringing the kids to the doctor and buying them clothes; and we took turns taking them to and from daycare and caring for them in the afternoons.
+A friend of mine is a good example of this investment view. She ran out of funding for her PhD before finishing it, and she got a part-time research job so she could keep working on it. Shortly after, however, she had a child, and she soon realized that a PhD, a job, and a baby was more than she could handle. She reviewed her priorities and chose the PhD and the baby ---and quit her job. That meant that she had to rely on her partner for economic support while she worked on her PhD, something neither she nor her partner liked. But she actually finished it in less than a year and immediatly found a much better-paid job as a post-doc. Which came in handy when, a few years later, it was her turn to support her partner economically!
 
 ***Thank you. Still one last question, if I may: Has it been worth it for you to have children, despite the difficulties?***
 
-Yes, it has. I wouldn't change it. 
+Yes, it has. :)
 
 &nbsp;
 
+**PS!** Let me add some advice for:
+
+- **women who have a male partner**: make sure that he does his share of childcare. Even if you have always shared work equally at home, sometimes men sort of assume that the baby is mostly your thing (it doesn't help that society assumes the same, of course). Educate your partner so he also takes up his part. There are some parts of childcare, especially in the first few years, that are best done by the mom (including, but not only, breastfeeding). But there is so much to do, that there's plenty of work for both. For instance, my partner was the one bringing the kids to the doctor and buying them clothes; and we took turns taking them to and from daycare and caring for them in the afternoons.
+
+- **men who have a female partner**: make sure that she considers you an equal in raising your child. Even if you have always shared work equally at home, sometimes women sort of assume that the baby is mostly their thing (it doesn't help that society assumes the same, of course). See previous point for more. 
+
+- **only parents**: take the advice from above and exponentiate it. Especially the being-kind-to-yourself part.
+
+- **other situations**: sorry, no specific advice for you!
+
+[Back to FAQ index](/index.md)
+
+---
 _[Disclaimer: This post expresses my opinion, based on years of experience, therapy, readings, and podcasts. Use at your own discretion. Written in June-September 2024, [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/).]_
