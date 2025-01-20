@@ -56,9 +56,10 @@ Yes, it has. :)
 
 - **only parents**: take the advice from above and exponentiate it. Especially the being-kind-to-yourself part.
 
-- **other situations**: sorry, no specific advice for you!
+- **other situations**: sorry, no specific advice for you, but all my sympathies, since I'm sure being non-standard doesn't help with parenting!
 
 [Back to FAQ index](/index.md)
 
----
-_[Disclaimer: This post expresses my opinion, based on years of experience, therapy, readings, and podcasts. Use at your own discretion. Written in June-September 2024, [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/).]_
+&nbsp;
+
+_[Disclaimer: This post expresses my opinion, based on years of experience, therapy, readings, and podcasts. Use at your own discretion. Written in the summer of 2024, [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/).]_

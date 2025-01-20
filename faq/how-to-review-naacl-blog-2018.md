@@ -8,4 +8,7 @@ I find that our community is sometimes too focused on numbers, so something I al
 
 Finally, I'd like to add that we tend to criticize reviewers a lot, and of course I get mad at Reviewer #3, too, but I think it's good to remind ourselves of how privileged we are to routinely get colleagues who don't even know us take the time to read our work and give feedback. So thanks, all, for your work!
 
+[Back to FAQ index](/index.md)
+
 [_Published in the NAACL HLT 2018 Chairs Blog, January 4 2018_]
+

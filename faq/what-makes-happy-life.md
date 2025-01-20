@@ -49,6 +49,8 @@ Also very interesting, and largely accessible, is the [World Happiness Report](h
 
 Note: Most research on happiness has been done on WEIRD (Western, Educated, Industrialized, Rich, and Democratic) populations, and there is evidence that many aspects around happiness vary cross-culturally. The World Happiness Report, luckily, covers a more diverse population, and supports what I've written in this post.
 
+[Back to FAQ index](/index.md)
+
 &nbsp;
 
 _[Disclaimer: This post expresses my opinion, which is based on years of experience, therapy, readings, and podcasts. Use at your own discretion. Written in August-September 2024, [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/).]_

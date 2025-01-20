@@ -74,6 +74,8 @@ Aeh...
 
 _(Gentle pat on the back.)_
 
+[Back to FAQ index](/index.md)
+
 &nbsp;
 
 _[Disclaimer: This post expresses my opinion, based on years of experience, therapy, readings, and podcasts. Use at your own discretion. Written in June-September 2024, [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/).]_
