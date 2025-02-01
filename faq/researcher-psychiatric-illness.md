@@ -64,6 +64,7 @@ Of course! I was very sad. And despite all my talk about acceptance, I am still 
 
 My TL;DR, thus, is that you can live a happy life as a researcher with a psychiatric illness. And that's huge. :)
 
+[Back to FAQ index](/index.md)
 
 &nbsp;
 
