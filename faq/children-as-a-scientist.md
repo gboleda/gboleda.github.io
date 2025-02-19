@@ -48,7 +48,7 @@ Yes, it has. :)
 
 &nbsp;
 
-**PS!** Let me add some advice for:
+**PS!** Let me add some advice specifically for:
 
 - **women who have a male partner**: make sure that he does his share of childcare. Even if you have always shared work equally at home, sometimes men sort of assume that the baby is mostly your thing (it doesn't help that society assumes the same, of course). Educate your partner so he also takes up his part. There are some parts of childcare, especially in the first few years, that are best done by the mom (including, but not only, breastfeeding). But there is so much to do, that there's plenty of work for both. For instance, my partner was the one bringing the kids to the doctor and buying them clothes; and we took turns taking them to and from daycare and caring for them in the afternoons.
 
